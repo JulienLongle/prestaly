@@ -11,6 +11,7 @@ __pycache__/
 
 #Docker
 *.log
+postgres_data
 
 #UI
 node_modules/

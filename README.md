@@ -34,7 +34,7 @@
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/prestaly.git](https://github.com/yourusername/prestaly.git)
+git clone https://github.com/JulienLongle/prestaly.git
 
 # Navigate to the project
 cd prestaly
