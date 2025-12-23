@@ -1,0 +1,17 @@
+#Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+.env
+
+#IDE
+.idea
+
+#Docker
+*.log
+
+#UI
+node_modules/
+dist/
